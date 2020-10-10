@@ -1,0 +1,287 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+
+.lf-rowheight{
+    height: calc(100% - 60px);
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.lf-mt-17{
+    margin-top: 17px;
+}
+.lf-input-wraper{
+    border: 1px solid #000000;
+    width:612px;
+    height:46px;
+}
+
+.lf-subwraper{
+    margin-top: 37px;
+    margin-left: 276px;
+    margin-right: 276px;
+    margin-bottom: 125px;
+}
+
+.lf-btn-dark{
+    width: 169px;
+    height: 43px;
+    border:none;
+    background: #000000;
+    cursor: pointer;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding: 10px 40px;
+    min-width: 160px;
+
+}
+.lf-mb-36{
+    margin-bottom: 36px;
+}
+.lf-mt-62{
+    margin-top: 62px;
+}
+.lf-mr-45{
+    margin-right: 45px;
+}
+.lf-btn-light{
+    border:none;
+    width: 169px;
+    height: 43px;
+    background: #ECEEF0;
+    color: #74838C;
+    padding: 10px 40px;
+    cursor: pointer;
+    font-weight: 600;
+    text-align: center;
+    min-width: 160px;
+    font-size: 18px;
+}
+
+.lf-input-style{
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #000000;
+}
+input:focus{
+    outline: none;
+}
+.lf-mt-37{
+    margin-top: 37px;
+}
+.lf-heading-wraper{
+    width: 998px;
+    height: 120px;
+}
+.lf-headingheight{
+    width: 998px;
+    height: 120px;
+}
+.lf-mt-39{
+    margin-top: 39px;
+}
+.lf-mt-51{
+    margin-top: 51px;
+}
+
+.lf-mt-61{
+    margin-top: 61px;
+}
+.lf-headingstyle{
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 53px;
+    color: #121223;
+}
+
+.lf-container{
+    height: 100vh;
+}
+
+
+.lf-header{
+    height: 60px;
+    font-size: 14px;
+    background: white;
+    border-bottom: 1px solid #eceef0;
+}
+.lf-subtext{
+    color: #74838C;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+
+}
+::placeholder{
+    color: black;
+}
+.lf-subheading{
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #74838C;
+
+}
+
+
+.lf-textstyle{
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    display: flex;
+    color: #74838C;
+}
+.lf-mt-5{
+    margin-top: 5px;
+}
+.lf-mt-10{
+    margin-top: 10px;
+}
+.lf-mr-28{
+    margin-right: 28px;
+}
+.lf-subheading-wraper{
+    width: 550px;
+    height: 54px;
+}
+.lf-textstyle-copyright{
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #74838C;
+}
+.lf-pr-20{
+    padding-right: 20px;
+}
+.lf-btn-outline-super-light{
+    padding: 10px 40px;
+    border: 1px solid #B8BFC3;
+    border-radius: 3px;
+    align-self: center;
+    background: white;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+    /*transition: 0.5s;*/
+    color: #74838c;
+}
+.lf-mt-24{
+    margin-top: 24px;
+}
+.lf-mt-95{
+    margin-top: 95px;
+}
+.lf-ml-60{
+    margin-left: 60px;
+}
+.lf-mr-30{
+    margin-right: 30px;
+}
+.lf-mr-105{
+    margin-right: 105px;
+}
+.lf-textwraper-vh{
+    width: 610px;
+    height: 350px;
+}
+.lf-textwraper-vh{
+    height: 250px;
+    width: 505px;
+}
+.lf-imgcol-vh{
+    height: 333px;
+    width: 295px;
+}
+.lf-fitem-wraper{
+    width: 210px; height: 150px;
+}
+
+.lf-mr-106{
+    margin-right: 106px;
+}
+.lf-five-page-h{
+    height: 520px;
+}
+.lf-mt-57{
+    margin-top: 57px;
+}
+.lf-mr-178{
+    margin-right: 178px;
+}
+.lf-forth-page-h{
+    height: 900px;
+    background: #ECEEF0;
+}
+.lf-wraper-margin{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.lf-third-page-h{
+    height: 900px;
+    background: #F9F9F9;
+}
+.lf-mt-91{
+    margin-top: 91px;
+}
+.lf-mt-30{
+    margin-top: 30px;
+}
+.lf-second-page-h{
+    height: 720px;
+    background:#ECEEF0;
+}
+
+.lf-mt-86{
+    margin-top: 86px;
+}
+
+.lf-imgswraper-vh{
+    height: 333px;
+}
+.lf-mt-72{
+    margin-top: 72px;
+}
+.side-border{
+    border: 1px solid black;
+}
+
+.lf-ml-45{
+    margin-left: 45px;
+}
+.lf-pr-85{
+    padding-right: 85px;
+}
+
+
+
+.lf-text-components{
+    padding-left: 100px;
+    padding-right: 60px;
+    height: 20px;
+}
+
+.lf-textwidth{
+    width:81px;
+
+}
+.lf-subtextwidth{
+    width:29px;
+}
